@@ -1,0 +1,122 @@
+/* Hero Section */
+.HeroSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+.HeroSectionBodyText {
+    font-weight: 500;
+}
+
+/* Cyber Security Topics Section */
+/* .CyberSecurityTopicsSectionContainer {
+    
+} */
+
+.CyberSecurityCard {
+    height: 450px;
+}
+
+/* NPC Section */
+.NPCSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.videoFrame {
+    display: flex;
+    justify-content: center;
+}
+
+
+.LastLine {
+    background-color: white;
+    text-align: center;
+}
+
+.mainDiv{
+    background-image: "/images/infographics.jpg";
+}
+
+.Link {
+    color: white !important;
+    font-family: "Raleway", sans-serif;
+    text-decoration: none !important; 
+}
+
+.Highlight {
+    color: white!important;
+}
+
+  
+.titleCard {
+    width: 100%;
+    color: white !important;
+  }
+
+.titleCardBackground {
+    background-color: #0D4E64 !important;
+    border: #0D4E64 !important;
+    text-align: center;
+  }
+
+.npcLink {
+    text-align: center;
+    text-decoration: none;
+    font-size: large;
+    color: black;
+}
+
+/* Infographics image */
+.Infographics {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+/* 
+News image */
+.News {
+    align-items: center;
+}
+
+/* updatesNews */
+.UpdatesNews {
+    height: 500px;
+    width: 300px;
+   
+}
+
+.NewsAndUpdatesText {
+    color: #72ECFD;
+}
+
+.Carousel {
+    background-color: #0D4E64;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+ 
+.CyberSecurityText {
+    color: #0D4E64;
+}
+
+.topText{
+    margin-left: 1000px;
+}
+
+.redTextHighlight {
+    color: #E56660;
+}
